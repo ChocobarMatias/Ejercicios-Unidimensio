@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios Unidimensio", "Ejercicios Unidimensio\Ejercicios Unidimensio.csproj", "{C6206CBB-07C8-4755-B5E3-51F385C81C74}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 01 Unidimensionales", "Ejercicios Unidimensio\Ejercicio 01 Unidimensionales.csproj", "{C6206CBB-07C8-4755-B5E3-51F385C81C74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 02 Unidimensionales", "Ejercicios 02\Ejercicio 02 Unidimensionales.csproj", "{28B3BCBC-4B05-40A4-8762-4100463C5A10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 03 Unidimensionales", "Ejercicio 3\Ejercicio 03 Unidimensionales.csproj", "{5555DDF2-2438-4C6F-93CB-107C3745BDFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 04 Unidimensionales", "Ejercicio 04\Ejercicio 04 Unidimensionales.csproj", "{8F85FC21-0615-44F5-80BE-CEA2208DC845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 05 Unidimensionales", "Ejercicio 05\Ejercicio 05 Unidimensionales.csproj", "{59BDEA12-EA7D-4D9C-A58A-6D3E2B28AEE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 06 Unidimensionales", "Ejercicio 06\Ejercicio 06 Unidimensionales.csproj", "{09F3EFED-2BC5-4B20-81A9-6037204D158D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 07 Unidimensionales", "Ejercicio 07\Ejercicio 07 Unidimensionales.csproj", "{9C91A9CF-C653-46E2-9377-5025AB90310F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 08 Unidimensionales", "Ejercicio 08\Ejercicio 08 Unidimensionales.csproj", "{6408E667-4535-472D-9E14-2F12789E25BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 09 Unidimensionales", "Ejercicio 09\Ejercicio 09 Unidimensionales.csproj", "{7A687B0C-F055-47A7-8510-3465377ABA64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 10 Unidimensionales", "Ejercicio 10\Ejercicio 10 Unidimensionales.csproj", "{47F8A5AD-7979-44C1-BBFF-0C0E7D93C4D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +33,42 @@ Global
 		{C6206CBB-07C8-4755-B5E3-51F385C81C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6206CBB-07C8-4755-B5E3-51F385C81C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6206CBB-07C8-4755-B5E3-51F385C81C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28B3BCBC-4B05-40A4-8762-4100463C5A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B3BCBC-4B05-40A4-8762-4100463C5A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B3BCBC-4B05-40A4-8762-4100463C5A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B3BCBC-4B05-40A4-8762-4100463C5A10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5555DDF2-2438-4C6F-93CB-107C3745BDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5555DDF2-2438-4C6F-93CB-107C3745BDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5555DDF2-2438-4C6F-93CB-107C3745BDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5555DDF2-2438-4C6F-93CB-107C3745BDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F85FC21-0615-44F5-80BE-CEA2208DC845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F85FC21-0615-44F5-80BE-CEA2208DC845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F85FC21-0615-44F5-80BE-CEA2208DC845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F85FC21-0615-44F5-80BE-CEA2208DC845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59BDEA12-EA7D-4D9C-A58A-6D3E2B28AEE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BDEA12-EA7D-4D9C-A58A-6D3E2B28AEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BDEA12-EA7D-4D9C-A58A-6D3E2B28AEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BDEA12-EA7D-4D9C-A58A-6D3E2B28AEE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F3EFED-2BC5-4B20-81A9-6037204D158D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F3EFED-2BC5-4B20-81A9-6037204D158D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F3EFED-2BC5-4B20-81A9-6037204D158D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F3EFED-2BC5-4B20-81A9-6037204D158D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C91A9CF-C653-46E2-9377-5025AB90310F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C91A9CF-C653-46E2-9377-5025AB90310F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C91A9CF-C653-46E2-9377-5025AB90310F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C91A9CF-C653-46E2-9377-5025AB90310F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6408E667-4535-472D-9E14-2F12789E25BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6408E667-4535-472D-9E14-2F12789E25BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6408E667-4535-472D-9E14-2F12789E25BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6408E667-4535-472D-9E14-2F12789E25BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A687B0C-F055-47A7-8510-3465377ABA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A687B0C-F055-47A7-8510-3465377ABA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A687B0C-F055-47A7-8510-3465377ABA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A687B0C-F055-47A7-8510-3465377ABA64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F8A5AD-7979-44C1-BBFF-0C0E7D93C4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F8A5AD-7979-44C1-BBFF-0C0E7D93C4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F8A5AD-7979-44C1-BBFF-0C0E7D93C4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F8A5AD-7979-44C1-BBFF-0C0E7D93C4D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
